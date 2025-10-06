@@ -188,7 +188,7 @@ def test_10():
                     "1:1:2:3:3:4:5:5:5:6:7:8:8:9",
                 ]
             },
-            index=pd.Series(["A", "B", "C", "D", "E"], name="_c1"),
+            index=pd.Series(["A", "B", "C", "D", "E"], name="c1"),
         )
     )
 
